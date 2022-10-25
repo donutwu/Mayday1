@@ -12,10 +12,20 @@ struct ContentView: View {
         TabView{
             Maydaylist()
             .tabItem {
-            Text("五月天成員介紹")
+              
+               
+                Text("主頁")
          .foregroundColor(Color.primary)
                     }
-                
+             MaydayIntro()
+                .tabItem{
+                    
+                        
+            
+                        
+                    Text("五月天介紹")
+                .foregroundColor(Color.primary)
+                }
             }
 
     }

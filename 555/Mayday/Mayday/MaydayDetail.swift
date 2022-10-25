@@ -23,7 +23,7 @@ struct MaydayDetail:View{
                     .padding()
                 Link(destination: URL(string: mayday.videoURL)!, label: {
                     VStack{
-                        Text("預告點我")
+                        Text("個人演唱作品點我")
                         
                     }
                 })

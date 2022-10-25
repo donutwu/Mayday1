@@ -15,6 +15,7 @@
 		5954FE052907A43A00095ECA /* Maydaylist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5954FE042907A43A00095ECA /* Maydaylist.swift */; };
 		5954FE082907A47600095ECA /* MaydayDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5954FE072907A47600095ECA /* MaydayDetail.swift */; };
 		5954FE0B2907A4A900095ECA /* MaydayRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5954FE0A2907A4A900095ECA /* MaydayRow.swift */; };
+		5954FE0E2908297400095ECA /* MaydayIntro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5954FE0D2908297400095ECA /* MaydayIntro.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		5954FE042907A43A00095ECA /* Maydaylist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Maydaylist.swift; sourceTree = "<group>"; };
 		5954FE072907A47600095ECA /* MaydayDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaydayDetail.swift; sourceTree = "<group>"; };
 		5954FE0A2907A4A900095ECA /* MaydayRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaydayRow.swift; sourceTree = "<group>"; };
+		5954FE0D2908297400095ECA /* MaydayIntro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaydayIntro.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				5954FDF82907A38500095ECA /* Preview Assets.xcassets */,
+				5954FE0D2908297400095ECA /* MaydayIntro.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				5954FE0B2907A4A900095ECA /* MaydayRow.swift in Sources */,
 				5954FDF42907A37A00095ECA /* ContentView.swift in Sources */,
 				5954FDF22907A37A00095ECA /* MaydayApp.swift in Sources */,
+				5954FE0E2908297400095ECA /* MaydayIntro.swift in Sources */,
 				5954FE022907A40100095ECA /* Mayday.swift in Sources */,
 				5954FE082907A47600095ECA /* MaydayDetail.swift in Sources */,
 			);
